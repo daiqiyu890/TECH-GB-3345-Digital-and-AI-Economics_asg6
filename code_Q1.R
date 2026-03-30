@@ -2,7 +2,7 @@
 # Submitted to: Prof. Arun Sundararajan
 # Submitted by: Qiyu Dai, Ilias Triantafyllopoulos
 
-# Note: This script contains the code for our answer in Q3.
+# Note: This script contains the code for our answer in Q1
 
 # Some preliminary commands
 rm(list = ls()) # clearing the workspace
